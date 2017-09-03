@@ -1,0 +1,20 @@
+{
+  "name": "db-web_gulp",
+  "version": "1.0.0",
+  "description": "DB & Web project.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximizeIT/MAS.git"
+  },
+  "author": "Max Scholz",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "0.0.8"
+  }
+}
